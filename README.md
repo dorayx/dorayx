@@ -1,16 +1,53 @@
-### Hi there 👋
+## 👋 Hi there
 
-<!--
-**dorayx/dorayx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm Doray, a self-motivated ❤️ tech enthusiast and a full stack 🕸️ web developer with over eight years of web development.
+I strive to push the boundaries of technology to streamline workflow for developers and enhance the experience for users.
 
-Here are some ideas to get you started:
+Throughout my career, my passion for productivity and creativity has driven my work on various projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- from 💄 front end to 🗄️ back end
+- from 🖥️ desktop app to 📱 mobile app
+- from ⚙️ development tools to 🛠️ productivity platforms
+- from a 📈 business-insight system to a ☁️ cloudide project
++ a lot more ...
+
+## 🧰 Skills
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+- JavaScript, TypeScript
+- CSS, SASS/SCSS, LESS
+- NodeJS, Java, PHP, SQL
+- React + Redux/Redux Toolkit + React Router, Vue + Vuex + Vue Router, TailwindCSS, AngularJS, Web Components + Stencil
+- Express/Koa + MongoDB + Redis, Spring MVC, Loopback, Laravel
+- Electron, Ionic, Apache Cordova
+- Webpack, Rollup, Vite, Gulp
+- NPM, Yarn, PNPM
++ a lot more ...
+
+## 🌱 Learning
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+- 🤕 Rust: tauri, webassembly, toolchain
+- 😌 Go: webassembly, back-end development, toolchain
+- 😋 Swift: Apple app development for personal productivity
+- 🙂 Bazel: multi-language build
+- 🤔 Flutter: cross-platform mobile app development
+- 🗣️ English: professional communication skills ([cambly certificate](http://www.cambly.com/en/certificate/verify/82a22774))
+
+## ⌨️ Coding
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dorayx&show_icons=true&locale=en" alt="dorayx" width="45%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dorayx&" alt="dorayx" width="48%" />
+</p>
