@@ -77,7 +77,31 @@ WebStorm                 2 hrs 30 mins       ███████████�
  Last Updated on 18/09/2023 18:35:41 UTC
 <!--END_SECTION:waka-->
 
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dorayx&show_icons=true&locale=en" alt="dorayx" width="45%" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dorayx&" alt="dorayx" width="48%" />
-</p>
+<a href="https://doray.me">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=dorayx&hide_border=true&show_icons=true&locale=en&theme=dark&card_width=440"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=dorayx&hide_border=true&show_icons=true&locale=en&theme=light&card_width=440"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dorayx&hide_border=true&show_icons=true&locale=en&theme=transparent&card_width=440" />
+    </picture>
+</a>
+
+<a href="https://doray.me">
+    <picture>
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=dorayx&hide_border=true&show_icons=true&locale=en&theme=dark&card_width=400"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=dorayx&hide_border=true&show_icons=true&locale=en&theme=light&card_width=400"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dorayx&hide_border=true&show_icons=true&locale=en&theme=transparent&card_width=400" />
+    </picture>
+</a>
+
