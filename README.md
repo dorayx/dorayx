@@ -45,6 +45,36 @@ Throughout my career, my passion for productivity and creativity has driven my w
 ## ⌨️ Coding
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-805.3%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 27.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 276 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 58 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 31 mins        ███████████████░░░░░░░░░░   61.10 % 
+TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Astro                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+
+🔥 Editors: 
+WebStorm                 2 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/09/2023 18:35:41 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
