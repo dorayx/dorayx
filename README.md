@@ -47,18 +47,6 @@ Throughout my career, my passion for productivity and creativity has driven my w
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-805.3%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 27.0 kB Used in GitHub's Storage 
- > 
-> 🏆 282 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 58 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -74,7 +62,7 @@ WebStorm                 2 hrs 30 mins       ███████████�
 ```
 
 
- Last Updated on 18/09/2023 22:32:20 UTC
+ Last Updated on 18/09/2023 22:49:36 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
