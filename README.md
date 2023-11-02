@@ -54,17 +54,14 @@ Throughout my career, my passion for productivity and creativity has driven my w
 
 ```text
 💬 Programming Languages: 
-Rust                     26 mins             █████████████████████████   99.39 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                26 mins             █████████████████████████   99.58 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/11/2023 18:35:47 UTC
+ Last Updated on 02/11/2023 18:35:32 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
