@@ -54,14 +54,15 @@ Throughout my career, my passion for productivity and creativity has driven my w
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 50 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Arc                      1 hr 47 mins        ████████████████░░░░░░░░░   62.82 % 
+GoogleChrome             1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   37.18 % 
 ```
 
 
- Last Updated on 01/12/2023 18:35:44 UTC
+ Last Updated on 02/12/2023 18:34:59 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
