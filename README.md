@@ -48,25 +48,25 @@ Throughout my career, my passion for productivity and creativity has driven my w
 ## ⌨️ Coding
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-900.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-900.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    17 hrs 20 mins      █████████████████████████   99.72 % 
-Logos                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    17 hrs 28 mins      █████████████████████████   99.81 % 
 Org                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Io                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Arc                      8 hrs 52 mins       █████████████░░░░░░░░░░░░   50.99 % 
-GoogleChrome             8 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.01 % 
+Arc                      10 hrs 15 mins      ███████████████░░░░░░░░░░   58.59 % 
+GoogleChrome             7 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.41 % 
 ```
 
 
- Last Updated on 09/01/2024 18:35:04 UTC
+ Last Updated on 10/01/2024 18:35:41 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
