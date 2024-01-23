@@ -21,6 +21,8 @@ Throughout my career, my passion for productivity and creativity has driven my w
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 - JavaScript, TypeScript
 - CSS, SASS/SCSS, LESS
@@ -30,6 +32,7 @@ Throughout my career, my passion for productivity and creativity has driven my w
 - Electron, Ionic, Apache Cordova
 - Webpack, Rollup, Vite, Gulp
 - NPM, Yarn, PNPM
+- Kotlin + Jetbrains IDE Plugin
 + a lot more ...
 
 ## 🌱 Learning
