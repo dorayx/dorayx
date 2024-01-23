@@ -23,16 +23,23 @@ Throughout my career, my passion for productivity and creativity has driven my w
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 - JavaScript, TypeScript
 - CSS, SASS/SCSS, LESS
 - NodeJS, Java, PHP, SQL
 - React + Redux/Redux Toolkit + React Router, Vue + Vuex + Vue Router, TailwindCSS, AngularJS, Web Components + Stencil
-- Express/Koa + MongoDB + Redis, Spring MVC, Loopback, Laravel
+- Express/Koa/Fastify + MongoDB + Redis, Spring MVC, Loopback, Laravel
 - Electron, Ionic, Apache Cordova
 - Webpack, Rollup, Vite, Gulp
 - NPM, Yarn, PNPM
 - Kotlin + Jetbrains IDE Plugin
+- Astro, NextJS
 + a lot more ...
 
 ## 🌱 Learning
