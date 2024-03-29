@@ -1,6 +1,5 @@
 ## 👋 Hi there
 
-[![LinkedIn](https://img.shields.io/badge/open_to_work-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dorayx)
 [![Personal Website](https://img.shields.io/badge/https%3A%2F%2Fdoray.me-18181b?style=for-the-badge&logo=blogger&logoColor=white)](https://doray.me)
 
 👨‍💻 I'm Doray, a self-motivated ❤️ tech enthusiast and a full stack 🕸️ web developer with over eight years of web development.
