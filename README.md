@@ -59,8 +59,20 @@ Throughout my career, my passion for productivity and creativity has driven my w
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-954.4%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 11/04/2024 18:35:03 UTC
+```text
+💬 Programming Languages: 
+Other                    1 hr 43 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+GoogleChrome             2 hrs 22 mins       ████████████████░░░░░░░░░   64.81 % 
+Chrome                   1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.78 % 
+Warp                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+```
+
+
+ Last Updated on 12/04/2024 18:35:22 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
