@@ -52,7 +52,7 @@ Throughout my career, my passion for productivity and creativity has driven my w
 - 😋 Swift: Apple app development for personal productivity
 - 🙂 Bazel: multi-language build
 - 🤔 Flutter: cross-platform mobile app development
-- 🗣️ English: professional communication skills ([cambly certificate](http://www.cambly.com/en/certificate/verify/82a22774))
+- 🗣️ English: professional communication skills ([cambly certificate](https://www.cambly.com/en/certificate/verify/da9821bb)))
 
 ## ⌨️ Coding
 
