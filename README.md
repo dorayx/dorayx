@@ -57,20 +57,25 @@ Throughout my career, my passion for productivity and creativity has driven my w
 ## ⌨️ Coding
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-954.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-975.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 25 mins       █████████████████████████   100.00 % 
+Other                    11 hrs 23 mins      ████████████████████████░   97.00 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 25 mins       █████████████████████████   100.00 % 
+Chrome                   11 hrs 23 mins      ████████████████████████░   97.00 % 
+WebStorm                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 
- Last Updated on 30/04/2024 18:36:20 UTC
+ Last Updated on 01/05/2024 18:35:29 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
