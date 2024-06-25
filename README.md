@@ -63,14 +63,19 @@ Throughout my career, my passion for productivity and creativity has driven my w
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 18 mins        █████████████░░░░░░░░░░░░   50.88 % 
+TypeScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Astro                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 18 mins        █████████████░░░░░░░░░░░░   50.88 % 
+WebStorm                 1 hr 16 mins        ████████████░░░░░░░░░░░░░   49.12 % 
 ```
 
 
- Last Updated on 24/06/2024 18:36:52 UTC
+ Last Updated on 25/06/2024 18:37:09 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
