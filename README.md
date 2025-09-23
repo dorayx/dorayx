@@ -59,18 +59,8 @@ Throughout my career, my passion for productivity and creativity has driven my w
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-998.8%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 22/09/2025 18:41:34 UTC
+ Last Updated on 23/09/2025 18:42:22 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://doray.me">
